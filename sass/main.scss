@@ -1,0 +1,39 @@
+// Abstracts
+@import"abstracts/funtions";
+@import"abstracts/mixins";
+@import"abstracts/variables";
+// Base
+@import"base/base";
+@import"base/animations";
+@import"base/Typography";
+@import"base/utilities";
+// Componets
+@import"components/buttom";
+@import"components/composition";
+@import"components/feature-box";
+@import"components/card";
+
+// Layout
+@import"layout/grid";
+@import"layout/header.scss";
+// Pages
+@import"pages/home";
+
+
+*,
+*::after,
+*::before{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: inherit;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+   
+    box-sizing: border-box;
+}
+

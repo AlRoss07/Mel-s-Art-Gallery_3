@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "..\\..\\..\\final-after-S06"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "final-after-S06"
+	}
+}
